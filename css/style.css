@@ -1,0 +1,33 @@
+body {
+	
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.slider-text,
+.slider-link {
+	font-family: 'Roboto', Arial, Tahoma, sans-serif; 
+	font-size: 24px;
+	line-height: 1.5;
+	font-weight: 300;
+	color: #303030;
+}
+
+.slider-link {
+	color: #e10011;
+	font-weight: 700; 
+	text-decoration: none;
+}
+
+.slider-link:hover {
+	text-decoration: underline;
+}
+
+.slider-banner-one {
+	font-family: 'Raleway', Arial, Tahoma, sans-serif;
+	font-size: 150px;
+	font-transform: uppercase;
+	line-height: 1;
+	font-weight: 900;
+	color: #303030;
+}
